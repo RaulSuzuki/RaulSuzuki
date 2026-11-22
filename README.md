@@ -5,6 +5,6 @@
 ## Hi, I'm Raul 👋
 
 - 🎓 Information System undergrad
-- 📡 Interested in Computer Networks
+- 📡 Interested in Computer Networks, Computer Vision and Quantum Computing
 
 📫 Reach me: your-email@example.com
