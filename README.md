@@ -7,4 +7,4 @@
 - 🎓 Information System undergrad
 - 📡 Interested in Computer Networks, Computer Vision and Quantum Computing
 
-📫 Reach me: your-email@example.com
+📫 Reach me: raul.borges@ufv.br
