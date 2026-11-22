@@ -4,7 +4,7 @@
 
 ## Hi, I'm Raul 👋
 
-- 🎓 Information System undergrad
+- 🎓 Information Systems undergrad
 - 📡 Interested in Computer Networks, Computer Vision and Quantum Computing
 
 📫 Reach me: raul.borges@ufv.br
